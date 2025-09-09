@@ -3,7 +3,7 @@ body {
     padding: 0px !important;
     font-family: "DM Sans", sans-serif;
 }
-h1{
+.fs-90{
     font-size: 90px;
 }
 
@@ -1271,7 +1271,7 @@ footer {
         padding-top: 85px;
     }
 
-    h1{
+    .fs-90{
         font-size: 77px;
     }
 
@@ -1593,7 +1593,7 @@ footer {
     .business {
         line-height: 78px;
     }
-    h1{font-size: 60px;}
+    .fs-90{font-size: 60px;}
 
     .px-150 {
         padding-left: 70px;
@@ -1992,7 +1992,7 @@ footer {
     .business {
         line-height: 66px;
     }
-    h1{ font-size: 52px;}
+    .fs-90{ font-size: 52px;}
 
     .simplify {
         gap: 28px;
@@ -2431,7 +2431,7 @@ footer {
     .business {
         line-height: 54px;
     }
-    h1{font-size: 39px;}
+    .fs-90{font-size: 39px;}
 
     .px-150 {
         padding-left: 10px;
@@ -2876,7 +2876,7 @@ footer {
     .business {
         line-height: 40px;
     }
-    h1{ font-size: 34px;}
+    .fs-90{ font-size: 34px;}
 
     .business .d-block {
         display: block !important;
@@ -3383,7 +3383,7 @@ footer {
     .business {
         line-height: 38px;
     }
-    h1{font-size: 31px;}
+    .fs-90{font-size: 31px;}
 
     .simplify-btn {
         gap: 10px;
@@ -3800,7 +3800,7 @@ footer {
     .business {
         line-height: 30px;
     }
-    h1{ font-size: 24px;}
+    .fs-90{ font-size: 24px;}
 
     .px-80 {
         padding-right: 20px;
